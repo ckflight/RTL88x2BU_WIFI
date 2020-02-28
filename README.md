@@ -13,7 +13,7 @@ Tested on raspberry pi with 2020-02-13-raspbian-buster-lite.img and /usr/src/lin
 
 	sudo apt install raspberrypi-kernel-headers
 
-   # Install rtl8822bu drivers
+   # Compile and install rtl8822bu drivers
 	
 	sudo git clone https://github.com/ckflight/RTL88x2BU_WIFI
 	cd rtl8822bu
