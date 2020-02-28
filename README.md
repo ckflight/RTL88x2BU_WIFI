@@ -17,7 +17,6 @@ Tested on raspberry pi with 2020-02-13-raspbian-buster-lite.img and /usr/src/lin
 	
 	sudo git clone https://github.com/ckflight/RTL88x2BU_WIFI
 	cd rtl8822bu
-	sudo nano Makefile
 
    	sudo make
 	sudo make install
