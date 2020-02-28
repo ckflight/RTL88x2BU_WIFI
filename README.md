@@ -1,6 +1,6 @@
 # Driver for RTL88x2BU WIFI Adaptors
 
-Currently testing with 2020-02-13-raspbian-buster-lite.img
+Currently testing with 2020-02-13-raspbian-buster-lite.img and /usr/src/linux-headers-4.19.97+ linux kernel headers.
 
    # Update raspberry pi and install libraries
    
