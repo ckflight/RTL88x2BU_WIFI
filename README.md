@@ -1,8 +1,7 @@
 # Driver for RTL88x2BU WIFI Adaptors
 
    # Update raspberry pi and install libraries
-
-	sudo apt-get update
+   
 	sudo apt update
 	sudo apt upgrade
 	sudo reboot
