@@ -1,6 +1,6 @@
 # Driver for RTL88x2BU WIFI Adaptors
 
-Tested on raspberry pi with 2020-02-13-raspbian-buster-lite.img and /usr/src/linux-headers-4.19.97+ linux kernel headers.
+Tested on raspberry pi with 2020-02-13-raspbian-buster-lite.img and /usr/src/linux-headers-4.19.97+ linux kernel headers and TPLink Archer T3U AC1300 wifi adapter.
 
    # Update raspberry pi and install libraries
    
